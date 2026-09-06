@@ -1,3 +1,5 @@
 Basic Commands:
 
 mkdir => to create a folder
+
+cd .. => move to previous folder or path
