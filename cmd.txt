@@ -1,3 +1,5 @@
 Basic Commands:
 
 mkdir => to create a folder
+
+touch <file_name> => to create a file.
