@@ -2,8 +2,9 @@ Basic Commands:
 
 mkdir => to create a folder
 
-<<<<<<< HEAD
 cd .. => move to previous folder or path
-=======
+
 touch <file_name> => to create a file.
->>>>>>> staging
+
+this comment is from development
+
