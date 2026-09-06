@@ -8,5 +8,4 @@ touch <file_name> => to create a file.
 
 this comment is from development
 
-this comment is from staging
-
+this comment is from staging development
