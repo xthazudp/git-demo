@@ -2,4 +2,6 @@ Basic Git Commands:
 
 this comment is from branch staging
 
-this comment is from branch development
+new comment from the staging branch
+
+new comment from the development branch
